@@ -1,0 +1,4 @@
+HYPERGRAZE© v1.0.0 NOTES
+
+- ATTRIBUTE dropdown does nothing
+- buggy needs fixes
