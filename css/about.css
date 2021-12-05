@@ -1,0 +1,37 @@
+.about-header{
+    color: rgba(51, 51, 51, 0.767);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10vh;
+    text-shadow: 12px 12px 12px rgba(36, 36, 36, 0.781);
+}
+
+#about-page img{
+    z-index: -1;
+    position: absolute;
+    right: 0px;
+    bottom: 55px;
+}
+
+.header_p{
+    margin-bottom: 30px;
+}
+
+.news_heading{
+    text-align: center;
+}
+
+
+.news_section{
+    background: rgba(221, 221, 221, 0.24);
+    padding: 10px;
+    margin-bottom: 25px;
+    box-shadow: 2px 2px 12px rgb(155, 155, 155);
+    margin: 25px 450px;
+    
+}
+
+.news_section:hover{
+    background-color: rgba(156, 156, 156, 0.041);
+}
