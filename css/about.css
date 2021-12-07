@@ -29,7 +29,7 @@
     margin-bottom: 25px;
     box-shadow: 2px 2px 12px rgb(155, 155, 155);
     margin: 25px 450px;
-    
+    transition: 1s;
 }
 
 .news_section:hover{
